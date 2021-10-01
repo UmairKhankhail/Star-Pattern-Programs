@@ -6,7 +6,7 @@ main()
     {
         for (j=1;j<=5;j++)
         {
-              /*
+
                if(j<=5-i)
                {
                  printf("   ");
@@ -15,7 +15,7 @@ main()
                {
                 printf(" * ");
                }
-               */
+            printf("\n");
 
                if(j>=6-i)
                {
